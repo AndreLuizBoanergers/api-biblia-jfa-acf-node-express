@@ -2,7 +2,7 @@
 ### required: express fuzzball fs router
 # TODA HONRA  E GLORIA SEJA DADA A DEUS
 
-##versao atualizada arquivo .rar
+## versao atualizada arquivo .rar
   
 #### Creditos https://github.com/thiagobodruk/bible
 
